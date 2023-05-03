@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 hi
 14112
+dog cat fish
 <!---
 Krittapas2004/Krittapas2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
